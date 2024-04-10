@@ -26,3 +26,15 @@ https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-prod
 
 https://data.world/xprizeai-env/effects-of-climate-change-on-global-food-production-v-1 
  
+
+ https://data.world/data-society/global-climate-change-data
+
+https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
+
+https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
+
+
+ https://www.un.org/en/climatechange/science/causes-effects-climate-change 
+
+ https://research.aimultiple.com/carbon-footprint-reduction/
+ 
