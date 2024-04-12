@@ -1,4 +1,4 @@
-DATE,,,Byproduct,Gross_farm_value,Net_farm_value,Wholesale_value,Retail_value,Total,Farm_wholesale,Wholesale_retail,All_fresh_beef_retail_value
+Month,Day ,Year,Byproduct,Gross_farm_value,Net_farm_value,Wholesale_value,Retail_value,Total,Farm_wholesale,Wholesale_retail,All_fresh_beef_retail_value
 1,1,1970,6,67.4,61.4,75.9,98.5,37.1,14.5,22.6,NULL
 2,1,1970,6.4,69.8,63.4,75.6,98.3,34.9,12.2,22.7,NULL
 3,1,1970,6.5,74,67.5,79.9,100.6,33.1,12.4,20.7,NULL
