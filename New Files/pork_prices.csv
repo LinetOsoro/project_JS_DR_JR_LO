@@ -1,4 +1,4 @@
-Month,Day,Year,Byproduct,Gross_farm_value,Net_farm_value,Wholesale_value,Retail_value,Total,Farm_wholesale,Wholesale_retail
+Month,Day,,Byproduct,Gross_farm_value,Net_farm_value,Wholesale_value,Retail_value,Total,Farm_wholesale,Wholesale_retail
 1,1,1970,4.3,52.3,48,71.2,81.4,33.4,23.2,10.2
 2,1,1970,4.7,53.9,49.2,70.4,81.1,31.9,21.2,10.7
 3,1,1970,4.8,49.6,44.8,68,80.7,35.9,23.2,12.7

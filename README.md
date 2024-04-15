@@ -37,6 +37,7 @@ https://www.un.org/en/climatechange/science/causes-effects-climate-change
 
 https://research.aimultiple.com/carbon-footprint-reduction/
 
+<<<<<<< Updated upstream
 https://plotly.com/python/plotly-express/#plotly-express-in-dash
 
 https://plotly.com/python/creating-and-updating-figures/
@@ -55,3 +56,8 @@ https://plotly.com/python/facet-plots/
 
 https://www.kaggle.com/code/akhabash/cheatsheet-70-ggplot-charts 
 
+=======
+https://www.kaggle.com/datasets/thedevastator/analyzing-u-s-warming-rates-insights-into-climat
+ 
+ 
+>>>>>>> Stashed changes
