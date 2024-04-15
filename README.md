@@ -36,5 +36,22 @@ https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientis
 https://www.un.org/en/climatechange/science/causes-effects-climate-change 
 
 https://research.aimultiple.com/carbon-footprint-reduction/
- 
- 
+
+https://plotly.com/python/plotly-express/#plotly-express-in-dash
+
+https://plotly.com/python/creating-and-updating-figures/
+
+https://plotly.com/python/plotly-express/#scatter-line-area-and-bar-charts
+
+https://seaborn.pydata.org/examples/grouped_boxplot.html
+
+https://seaborn.pydata.org/examples/histogram_stacked.html
+
+https://seaborn.pydata.org/examples/part_whole_bars.html
+
+https://seaborn.pydata.org/generated/seaborn.jointplot.html
+
+https://plotly.com/python/facet-plots/
+
+https://www.kaggle.com/code/akhabash/cheatsheet-70-ggplot-charts 
+
