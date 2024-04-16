@@ -65,3 +65,4 @@ https://www.kaggle.com/datasets/thedevastator/analyzing-u-s-warming-rates-insigh
 
 https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html
 
+https://kilthub.cmu.edu/articles/dataset/Assessment_of_historical_annual_temperature_and_precipitation_indices_change_in_the_U_S_cities/7961012?file=32875124
