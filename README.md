@@ -100,16 +100,22 @@ https://www.kaggle.com/code/akhabash/cheatsheet-70-ggplot-charts
 https://www.geeksforgeeks.org/python-pandas-dataframe-nsmallest/
 
 https://www.geeksforgeeks.org/python-pandas-series-tolist/
+
 https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature
+
 https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered
+
 https://citizensclimatelobby.org/blog/policy/the-science-behind-climate-change/?utm_source=google&utm_medium=ppc&utm_campaign=the-science-of-climate-change&gad_source=1&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh2QkX7jeRrtXJzkE7CTdiPmXrbopINE_1ji9dXPWxGpLATjBEXGZnhoCIbEQAvD_BwE
+
 https://www.whitehouse.gov/climate/
+
 https://www.thecommons.earth/blog/the-beef-with-beef-why-are-beef-prices-so-high#:~:text=COVID%2D19%20threw%20a%20curveball&text=It%20caused%20a%20surge%20in,subsequently%20driving%20up%20beef%20prices.
+
 https://investigatemidwest.org/2024/03/13/droughts-complicated-by-climate-change-lead-to-historically-dwindling-us-beef-herd/
 
 https://investigatemidwest.org/2024/03/13/droughts-complicated-by-climate-change-lead-to-historically-dwindling-us-beef-herd/
+
 https://www.pig333.com/articles/sustainable-pork-production-in-the-age-of-climate-change_16467/#:~:text=Increased%20production%20costs%20due%20to,production%20due%20to%20extreme%20weather.
-
 
 https://www.geeksforgeeks.org/python-pandas-dataframe-nlargest/?ref=lbp
 
