@@ -63,3 +63,5 @@ https://www.geeksforgeeks.org/python-pandas-dataframe-nlargest/?ref=lbp
 
 https://www.kaggle.com/datasets/thedevastator/analyzing-u-s-warming-rates-insights-into-climat
 
+https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html
+
