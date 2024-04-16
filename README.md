@@ -52,20 +52,31 @@ Climate Insights Dataset - kaggle.com
 
 Resources:
 
+
+
+
+Global climate change Data
+Causes of climate changes  
+
+Climate Change: Earth Surface Temperature Data 
 https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data 
 
+Crop Production& Climate Change  
 https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-production-and-cli 
 
+Effects of Climate Change on Global Food Production V1 
 https://data.world/xprizeai-env/effects-of-climate-change-on-global-food-production-v-1 
 
+Global climate change Data
 https://data.world/data-society/global-climate-change-data
 
+Causes of climate changes  
 https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
 
-https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
-
+*** not working**
 https://www.un.org/en/climatechange/science/causes-effects-climate-change 
 
+5 ways to Reduce Corporate Carbon Footprint in 2024 
 https://research.aimultiple.com/carbon-footprint-reduction/
 
 https://plotly.com/python/plotly-express/#plotly-express-in-dash
