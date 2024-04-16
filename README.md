@@ -55,53 +55,27 @@ Resources:
 
 
 
-Global climate change Data
-Causes of climate changes  
 
-Climate Change: Earth Surface Temperature Data 
-https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data 
 
-Crop Production& Climate Change  
-https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-production-and-cli 
+Climate Change: Earth Surface Temperature Data: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data 
 
-Effects of Climate Change on Global Food Production V1 
-https://data.world/xprizeai-env/effects-of-climate-change-on-global-food-production-v-1 
+Crop Production& Climate Change: https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-production-and-cli 
 
-Global climate change Data
-https://data.world/data-society/global-climate-change-data
+Effects of Climate Change on Global Food Production V1: https://data.world/xprizeai-env/effects-of-climate-change-on-global-food-production-v-1 
 
-Causes of climate changes  
-https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
+Global climate change Data: https://data.world/data-society/global-climate-change-data
 
-*** not working**
-https://www.un.org/en/climatechange/science/causes-effects-climate-change 
+Causes of climate changes: https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
 
-5 ways to Reduce Corporate Carbon Footprint in 2024 
-https://research.aimultiple.com/carbon-footprint-reduction/
+*** not working**: https://www.un.org/en/climatechange/science/causes-effects-climate-change 
 
-https://plotly.com/python/plotly-express/#plotly-express-in-dash
+5 ways to Reduce Corporate Carbon Footprint in 2024: https://research.aimultiple.com/carbon-footprint-reduction/
 
-https://plotly.com/python/creating-and-updating-figures/
+The Science of Climate Change: https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature
 
-https://plotly.com/python/plotly-express/#scatter-line-area-and-bar-charts
 
-https://seaborn.pydata.org/examples/grouped_boxplot.html
 
-https://seaborn.pydata.org/examples/histogram_stacked.html
 
-https://seaborn.pydata.org/examples/part_whole_bars.html
-
-https://seaborn.pydata.org/generated/seaborn.jointplot.html
-
-https://plotly.com/python/facet-plots/
-
-https://www.kaggle.com/code/akhabash/cheatsheet-70-ggplot-charts 
-
-https://www.geeksforgeeks.org/python-pandas-dataframe-nsmallest/
-
-https://www.geeksforgeeks.org/python-pandas-series-tolist/
-
-https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature
 
 https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered
 
@@ -124,3 +98,25 @@ https://www.kaggle.com/datasets/thedevastator/analyzing-u-s-warming-rates-insigh
 https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html
 
 https://kilthub.cmu.edu/articles/dataset/Assessment_of_historical_annual_temperature_and_precipitation_indices_change_in_the_U_S_cities/7961012?file=32875124
+
+https://plotly.com/python/plotly-express/#plotly-express-in-dash
+
+https://plotly.com/python/creating-and-updating-figures/
+
+https://plotly.com/python/plotly-express/#scatter-line-area-and-bar-charts
+
+https://seaborn.pydata.org/examples/grouped_boxplot.html
+
+https://seaborn.pydata.org/examples/histogram_stacked.html
+
+https://seaborn.pydata.org/examples/part_whole_bars.html
+
+https://seaborn.pydata.org/generated/seaborn.jointplot.html
+
+https://plotly.com/python/facet-plots/
+
+https://www.kaggle.com/code/akhabash/cheatsheet-70-ggplot-charts 
+
+https://www.geeksforgeeks.org/python-pandas-dataframe-nsmallest/
+
+https://www.geeksforgeeks.org/python-pandas-series-tolist/
