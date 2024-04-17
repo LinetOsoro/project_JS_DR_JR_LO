@@ -46,6 +46,7 @@ The pork price production has been negatively affected by climate change and glo
 
 #### What are the global efforts to address climate change?
 President Biden and Vice President Harris have set out some groundbreaking goals
+
 a. Reducing U.S. greenhouse gas emissions 50-52 percent below 2005 levels in 2030
 
 b. Reaching 100 percent carbon pollution-free electricity by 2035
@@ -59,6 +60,7 @@ e. Congress passed the Inflation Reduction Act – the most significant legislat
 f. New investments in U.S. clean energy manufacturing electric vehicles and batteries, and clean power projects have reached over $390 billion dollars. 
 
 #### Efforts of management options to use less energy and cope with extreme weather?
+
 a. Renovation of and building new structures: for ventilation, consider the use of centrifugal fans rather than axial fans in applications where possible, as they are more efficient, work better against external wind forces, and are easier to maintain.
 
 b. Increase structural strength and insulation of buildings to withstand higher winds and manage extreme temperatures.
