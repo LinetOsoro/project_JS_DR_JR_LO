@@ -1,8 +1,8 @@
-# The Global Climate Change
+## The Global Climate Change
 
 Global climate change is a hot topic in today’s world. As research is conducted, the world is learning that the effects of global climate change expand farther than and that the causes of it hit closer to home than we previously thought. We would like to look closer specifically into how food production and global climate change relate to each other. 
 
-Using data sets, we will discover how closely global climate change and what we eat are related.
+We will showcase the causes and effects of climate change
 
 ## We will explore:
 The agricultural effects of global climate change regarding farming conditions.
@@ -17,7 +17,7 @@ Global temperature is rising at an accelerating rate, there is data begginning i
 The earth’s temperature has risen by an average of 11 degrees Fahrenheit per decade since 1850, or about 2 degrees total. The extra heat is driving regional and seasonal temperatures extremes, reducing snow cover and sea ice, intensifying heavy rainfall, and changing habitat ranges for plants and animals- expanding some and shrinking others. 
 To calculate a global average temperature, scientists begin with temperature measurements taken at locations around the globe. Multiple independent research groups across the world perform their own analysis of the surface temperature data, and they all show a similar upward trend. 
 
-### Reasons global temperature is important and how it affects the prices of beef
+## Reasons global temperature is important and how it affects the prices of beef
 
 Beef production is becoming more efficient, but forests are still being cut down for new pasture as meat consumption is on the rise. 
 
@@ -34,7 +34,7 @@ COVID-19 threw a curveball and caused a surge in the prices of key cattle feed i
 
 Current research shows climate change has caused more frequent large rainfall events coupled with months of zero precipitation. This volatility has made relying on typical weather patterns and grazing conditions difficult for the nations beef producers. The more volatility the country is, coupled with the inconsistent droughts, the fewer the beef cattle to graze and this short supply available to meat processing companies nationwide. 
 	
-#### Reasons global temperature is important and how it affects the prices of pork. (very similar to beef) 
+## Reasons global temperature is important and how it affects the prices of pork. (very similar to beef) 
  
 Climate change can directly affect the price of pork through various channels. For example  extreme weather events impacting feed crops. Disease outbreaks affecting livestock, and increased production costs due to changes in temperature and weather patterns. 
 
@@ -43,8 +43,7 @@ These factors can contribute to fluctuations in pork prices, the impact can vary
 The pork price production has been negatively affected by climate change and global warming causing increased energy costs for cooling and ventilation, increased cost of feed energy and protein because of lowered crop production due to extreme weather conditions.
 
 
-
-#### What are the global efforts to address climate change?
+## What are the global efforts to address climate change?
 President Biden and Vice President Harris have set out some groundbreaking goals
 
 a. Reducing U.S. greenhouse gas emissions 50-52 percent below 2005 levels in 2030
@@ -59,7 +58,7 @@ e. Congress passed the Inflation Reduction Act – the most significant legislat
 
 f. New investments in U.S. clean energy manufacturing electric vehicles and batteries, and clean power projects have reached over $390 billion dollars. 
 
-#### Efforts of management options to use less energy and cope with extreme weather?
+## Efforts of management options to use less energy and cope with extreme weather?
 
 a. Renovation of and building new structures: for ventilation, consider the use of centrifugal fans rather than axial fans in applications where possible, as they are more efficient, work better against external wind forces, and are easier to maintain.
 
@@ -72,6 +71,26 @@ d. Utilize creep boxes in a farrowing unit so lower overall building temperature
 e. Install solar panels for energy usage 
 
 f. Consider outdoor or partial outdoor finishing to save energy
+
+## Vulnerable regions
+The ND-GAIN Country Index summarizes a country's vulnerability to climate change and other global challenges in combination with its readiness to improve resilience. It aims to help governments, businesses and communities better prioritize investments for a more efficient response to the immediate global challenges ahead. 
+
+Ecological Threat Report (ETR) seeks to present two particularly large and complex problems – identifying countries most at risk of catastrophic outcomes as a result of ecological threats, and predicting which ones are most likely to suffer from conflict and instability in future.
+
+Using the global Warming Impact Score scientist are able to know which countries have high scores 
+
+Top 5 bottom countries 
+
+Afghanistan- hit by drought for 3 consecutive years which, combined with heavy flooding, has further reduced food production and rendered 23 million people highly food insecure.
+
+Mozambique--Mozambique’s 2,300 km coastline makes it highly vulnerable to cyclones, flooding, and rising sea levels resulting in soil salinization and loss of land. Mozambique was hit by the devastating Cyclone Freddy in March 2023, which caused displacement of more than 20,000 people and destruction of significant infrastructure.
+
+Myanmar-- Has been affected by at least 57 natural disasters caused by global warming since 2000, that have caused more than 7,000 deaths per year on average and an economic loss of $1.5 billion. In May 2023, the country got hit by Cyclone Mocha, the strongest cyclone ever recorded in the North Indian Ocean, that left 250,000 people in dire need of food and shelter.
+
+Pakistan -- One of the worst impacts of global warming and climate change was the devastating monsoon floods experienced by Pakistan in 2022 that impacted the lives and livelihoods of 33 million people, destroyed 4.4 million acres of agricultural land, and killed 800,000 livestock. With increasing temperatures and rapidly melting glaciers, the country is also set to experience periods of drought which could cause more than 14.6 million people to fall prey to acute hunger.
+
+Haiti-- ranks 17th on the Ecological Threat Report (ETR)’s list of countries that are most threatened by climate-related catastrophes. It has been hit by 80 such events since 2000 and has suffered an economic loss of $392 million. It has recently received assistance of $22.4 million from the Green Climate Fund for building climate resilience through reforestation and flood management.
+
 
 ## Ethical Considerations Surrounding Climate Change 
 
@@ -119,6 +138,23 @@ Climate Change is a moral and ethical issue: https://friendsoftheearth.uk/climat
 
 Climate change is a moral and ethical issue: https://friendsoftheearth.uk/climate/climate-change-moral-and-ethical-issue
 
+Gains new ranking ND_rankings: https://gain-new.crc.nd.edu/ranking
+
+Top 20 Countries Most Affected by Global Warming: https://www.insidermonkey.com/blog/top-20-countries-most-affected-by-global-warming-1183691/ 
+
+Countries most affected by climate change: https://www.iberdrola.com/sustainability/top-countries-most-affected-by-climate-change 
+
+Causes and Effects of Climate Change: https://www.un.org/en/climatechange/science/causes-effects-climate-change 
+
+Global Climate Change Impact on Crops Expected Within 10 Years, NASA Study Finds : https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/ 
+
+Climate Change & Crops: https://www.climatecentral.org/climate-matters/climate-change-crops 
+
+Climate change impacts:  https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts 
+
+Climate Maps & Data: https://www.climate.gov/maps-data 
+
+
 ## Materials used for coding, cleaning data and plotting 
 
 https://plotly.com/python/plotly-express/#plotly-express-in-dash
@@ -144,4 +180,6 @@ https://www.geeksforgeeks.org/python-pandas-dataframe-nsmallest/
 https://www.geeksforgeeks.org/python-pandas-series-tolist/
 
 https://www.geeksforgeeks.org/python-pandas-dataframe-nlargest/?ref=lbp
+
+https://python-visualization.github.io/folium/latest/
 
