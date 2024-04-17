@@ -108,6 +108,8 @@ Atmospheric CO2 Data: https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_m
 
 Total Precipitation Data: https://kilthub.cmu.edu/articles/dataset/Assessment_of_historical_annual_temperature_and_precipitation_indices_change_in_the_U_S_cities/7961012?file=32875124
 
+Climate Change is a moral and ethical issue: https://friendsoftheearth.uk/climate/climate-change-moral-and-ethical-issue
+
 ## Materials used for coding, cleaning data and plotting 
 
 https://plotly.com/python/plotly-express/#plotly-express-in-dash
