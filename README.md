@@ -73,8 +73,6 @@ Global climate change Data: https://data.world/data-society/global-climate-chang
 
 Causes of climate changes: https://www.epa.gov/climatechange-science/causes-climate-change#:~:text=Scientists%20have%20pieced%20together%20a,earth's%20orbit%20around%20the%20sun.
 
-*** not working**: https://www.un.org/en/climatechange/science/causes-effects-climate-change 
-
 5 ways to Reduce Corporate Carbon Footprint in 2024: https://research.aimultiple.com/carbon-footprint-reduction/
 
 The Science of Climate Change: https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature
