@@ -143,6 +143,18 @@ Gains new ranking ND_rankings: https://gain-new.crc.nd.edu/ranking
 
 Top 20 Countries Most Affected by Global Warming: https://www.insidermonkey.com/blog/top-20-countries-most-affected-by-global-warming-1183691/ 
 
+Countries most affected by climate change: https://www.iberdrola.com/sustainability/top-countries-most-affected-by-climate-change 
+
+Causes and Effects of Climate Change: https://www.un.org/en/climatechange/science/causes-effects-climate-change 
+
+Global Climate Change Impact on Crops Expected Within 10 Years, NASA Study Finds : https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/ 
+
+Climate Change & Crops: https://www.climatecentral.org/climate-matters/climate-change-crops 
+
+Climate change impacts:  https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts 
+
+Climate Maps & Data: https://www.climate.gov/maps-data 
+
 
 ## Materials used for coding, cleaning data and plotting 
 
