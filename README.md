@@ -1,4 +1,4 @@
-# The Global Climate Change
+## The Global Climate Change
 
 Global climate change is a hot topic in today’s world. As research is conducted, the world is learning that the effects of global climate change expand farther than and that the causes of it hit closer to home than we previously thought. We would like to look closer specifically into how food production and global climate change relate to each other. 
 
@@ -17,7 +17,7 @@ Global temperature is rising at an accelerating rate, there is data begginning i
 The earth’s temperature has risen by an average of 11 degrees Fahrenheit per decade since 1850, or about 2 degrees total. The extra heat is driving regional and seasonal temperatures extremes, reducing snow cover and sea ice, intensifying heavy rainfall, and changing habitat ranges for plants and animals- expanding some and shrinking others. 
 To calculate a global average temperature, scientists begin with temperature measurements taken at locations around the globe. Multiple independent research groups across the world perform their own analysis of the surface temperature data, and they all show a similar upward trend. 
 
-### Reasons global temperature is important and how it affects the prices of beef
+## Reasons global temperature is important and how it affects the prices of beef
 
 Beef production is becoming more efficient, but forests are still being cut down for new pasture as meat consumption is on the rise. 
 
@@ -34,7 +34,7 @@ COVID-19 threw a curveball and caused a surge in the prices of key cattle feed i
 
 Current research shows climate change has caused more frequent large rainfall events coupled with months of zero precipitation. This volatility has made relying on typical weather patterns and grazing conditions difficult for the nations beef producers. The more volatility the country is, coupled with the inconsistent droughts, the fewer the beef cattle to graze and this short supply available to meat processing companies nationwide. 
 	
-#### Reasons global temperature is important and how it affects the prices of pork. (very similar to beef) 
+## Reasons global temperature is important and how it affects the prices of pork. (very similar to beef) 
  
 Climate change can directly affect the price of pork through various channels. For example  extreme weather events impacting feed crops. Disease outbreaks affecting livestock, and increased production costs due to changes in temperature and weather patterns. 
 
@@ -43,8 +43,7 @@ These factors can contribute to fluctuations in pork prices, the impact can vary
 The pork price production has been negatively affected by climate change and global warming causing increased energy costs for cooling and ventilation, increased cost of feed energy and protein because of lowered crop production due to extreme weather conditions.
 
 
-
-#### What are the global efforts to address climate change?
+## What are the global efforts to address climate change?
 President Biden and Vice President Harris have set out some groundbreaking goals
 
 a. Reducing U.S. greenhouse gas emissions 50-52 percent below 2005 levels in 2030
@@ -59,7 +58,7 @@ e. Congress passed the Inflation Reduction Act – the most significant legislat
 
 f. New investments in U.S. clean energy manufacturing electric vehicles and batteries, and clean power projects have reached over $390 billion dollars. 
 
-#### Efforts of management options to use less energy and cope with extreme weather?
+## Efforts of management options to use less energy and cope with extreme weather?
 
 a. Renovation of and building new structures: for ventilation, consider the use of centrifugal fans rather than axial fans in applications where possible, as they are more efficient, work better against external wind forces, and are easier to maintain.
 
