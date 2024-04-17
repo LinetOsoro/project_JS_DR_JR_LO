@@ -2,7 +2,7 @@
 
 Global climate change is a hot topic in today’s world. As research is conducted, the world is learning that the effects of global climate change expand farther than and that the causes of it hit closer to home than we previously thought. We would like to look closer specifically into how food production and global climate change relate to each other. 
 
-Using data sets, we will discover how closely global climate change and what we eat are related.
+Using data we researched and cleaned, we will showcase how closely global climate change and what we eat are related.
 
 ## We will explore:
 The agricultural effects of global climate change regarding farming conditions.
@@ -73,6 +73,26 @@ e. Install solar panels for energy usage
 
 f. Consider outdoor or partial outdoor finishing to save energy
 
+## Vulnerable regions
+The ND-GAIN Country Index summarizes a country's vulnerability to climate change and other global challenges in combination with its readiness to improve resilience. It aims to help governments, businesses and communities better prioritize investments for a more efficient response to the immediate global challenges ahead. 
+
+Ecological Threat Report (ETR) seeks to present two particularly large and complex problems – identifying countries most at risk of catastrophic outcomes as a result of ecological threats, and predicting which ones are most likely to suffer from conflict and instability in future.
+
+Using the global Warming Impact Score scientist are able to know which countries have high scores 
+
+Top 5 bottom countries 
+
+Afghanistan- hit by drought for 3 consecutive years which, combined with heavy flooding, has further reduced food production and rendered 23 million people highly food insecure.
+
+Mozambique--Mozambique’s 2,300 km coastline makes it highly vulnerable to cyclones, flooding, and rising sea levels resulting in soil salinization and loss of land. Mozambique was hit by the devastating Cyclone Freddy in March 2023, which caused displacement of more than 20,000 people and destruction of significant infrastructure.
+
+Myanmar-- Has been affected by at least 57 natural disasters caused by global warming since 2000, that have caused more than 7,000 deaths per year on average and an economic loss of $1.5 billion. In May 2023, the country got hit by Cyclone Mocha, the strongest cyclone ever recorded in the North Indian Ocean, that left 250,000 people in dire need of food and shelter.
+
+Pakistan -- One of the worst impacts of global warming and climate change was the devastating monsoon floods experienced by Pakistan in 2022 that impacted the lives and livelihoods of 33 million people, destroyed 4.4 million acres of agricultural land, and killed 800,000 livestock. With increasing temperatures and rapidly melting glaciers, the country is also set to experience periods of drought which could cause more than 14.6 million people to fall prey to acute hunger.
+
+Haiti-- ranks 17th on the Ecological Threat Report (ETR)’s list of countries that are most threatened by climate-related catastrophes. It has been hit by 80 such events since 2000 and has suffered an economic loss of $392 million. It has recently received assistance of $22.4 million from the Green Climate Fund for building climate resilience through reforestation and flood management.
+
+
 ## Ethical Considerations Surrounding Climate Change 
 
 Climate change presents a profound moral and ethical dilemma that requires immediate attention. While economic debates often center on costs and benefits, they overlook the intrinsic value of biodiversity, community well-being, and the legacy we leave for future generations. 
@@ -119,6 +139,11 @@ Climate Change is a moral and ethical issue: https://friendsoftheearth.uk/climat
 
 Climate change is a moral and ethical issue: https://friendsoftheearth.uk/climate/climate-change-moral-and-ethical-issue
 
+Gains new ranking ND_rankings: https://gain-new.crc.nd.edu/ranking
+
+Top 20 Countries Most Affected by Global Warming: https://www.insidermonkey.com/blog/top-20-countries-most-affected-by-global-warming-1183691/ 
+
+
 ## Materials used for coding, cleaning data and plotting 
 
 https://plotly.com/python/plotly-express/#plotly-express-in-dash
@@ -144,4 +169,6 @@ https://www.geeksforgeeks.org/python-pandas-dataframe-nsmallest/
 https://www.geeksforgeeks.org/python-pandas-series-tolist/
 
 https://www.geeksforgeeks.org/python-pandas-dataframe-nlargest/?ref=lbp
+
+https://python-visualization.github.io/folium/latest/
 
