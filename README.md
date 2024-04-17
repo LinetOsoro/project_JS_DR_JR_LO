@@ -2,7 +2,7 @@
 
 Global climate change is a hot topic in today’s world. As research is conducted, the world is learning that the effects of global climate change expand farther than and that the causes of it hit closer to home than we previously thought. We would like to look closer specifically into how food production and global climate change relate to each other. 
 
-Using data we researched and cleaned, we will showcase how closely global climate change and what we eat are related.
+We will showcase the causes and effects of climate change
 
 ## We will explore:
 The agricultural effects of global climate change regarding farming conditions.
