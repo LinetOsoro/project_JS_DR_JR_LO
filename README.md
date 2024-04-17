@@ -11,7 +11,7 @@ The direct effects of the agricultural system on global climate change.
 
 The residual effects of global climate change affecting access to food, healthcare, and quality of life.
 
-          ### Global Temperature 
+## Global Temperature 
 Global temperature is rising at an accelerating rate, there is data begginning in the 1800s. This is due to greenhouse gas emissions, buildup from human activity, mainly the burning of fossil fuels. 
 
 The earth’s temperature has risen by an average of 11 degrees Fahrenheit per decade since 1850, or about 2 degrees total. The extra heat is driving regional and seasonal temperatures extremes, reducing snow cover and sea ice, intensifying heavy rainfall, and changing habitat ranges for plants and animals- expanding some and shrinking others. 
