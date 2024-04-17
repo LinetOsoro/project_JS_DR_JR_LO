@@ -2,7 +2,7 @@
 
 Global climate change is a hot topic in today’s world. As research is conducted, the world is learning that the effects of global climate change expand farther than and that the causes of it hit closer to home than we previously thought. We would like to look closer specifically into how food production and global climate change relate to each other. 
 
-We will showcase the causes and effects of climate change
+We will showcase the causes and effects of climate change using various datasets that we exported to database sql and then to CSV. We used Panda, Python, Seaborn, Folium and plotly to analyze the data to use.
 
 ## We will explore:
 The agricultural effects of global climate change regarding farming conditions.
