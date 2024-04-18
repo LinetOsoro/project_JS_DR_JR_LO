@@ -83,7 +83,7 @@ Using the global Warming Impact Score scientist are able to know which countries
 
 What areas are more affected 
 According to the International Rescue Committee, the top 10 vulnerable regions suffering humanitarian crises are dealing with various combinations of climate change, economic turmoil, and political conflict.
-Concerning Climate Decisions
+
 - Drought				 	- Political problems
 - Country-wide famine			 - Increased military confrontation
 - Non-potable drinking water		- Flooding
@@ -102,11 +102,14 @@ From the IRC’s top 10 humanitarian list, 7 of those countries are also present
 1. Somalia: Human-caused climate change increased frequency and severity of droughts
 
 From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
+
 7. South Sudan: floods, climate disasters, and years of civil war
 	Food Vulnerability - 3rd worst 
 	Water Vulnerability – 2nd worst
+
 6. Syria: decade long war destroyed health care system, increased food prices, and poverty 
 	Water Vulnerability – 5th worst
+
 5. Yemen: 8 year conflict between armed groups and government forces
 
 4. Democratic Republic of Congo: major disease outbreaks and decades-long conflict
