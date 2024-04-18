@@ -12,11 +12,11 @@ The direct effects of the agricultural system on global climate change.
 The residual effects of global climate change affecting access to food, healthcare, and quality of life.
 
 ## File locations on Github
-We have New files that have all the data we used
-DatabaseSetup.sql Has the code for the database
-Interactive.ipynb has the code for Folium and the other interactive plots
-Project3ppt.pptx has the power point
-Whole File with all plots has the general code
+We have a folder called "New Files" with all tje data files we used
+"DatabaseSetup.sql" has the code for the database
+"Interactive.ipynb" has the code for Folium and the other interactive plots
+"Project3ppt.pptx" is the power point
+"WHOLE FILE WITH ALL PLOTS" has the general code
 
 ## Global Temperature 
 Global temperature is rising at an accelerating rate, there is data begginning in the 1800s. This is due to greenhouse gas emissions, buildup from human activity, mainly the burning of fossil fuels. 
