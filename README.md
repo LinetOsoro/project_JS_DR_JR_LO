@@ -36,7 +36,7 @@ Current research shows climate change has caused more frequent large rainfall ev
 	
 ## Reasons global temperature is important and how it affects the prices of pork. (very similar to beef) 
  
-Climate change can directly affect the price of pork through various channels. For example  extreme weather events impacting feed crops. Disease outbreaks affecting livestock, and increased production costs due to changes in temperature and weather patterns. 
+Climate change can directly affect the price of pork through various channels. For example extreme weather events impacting feed crops. Disease outbreaks affecting livestock, and increased production costs due to changes in temperature and weather patterns. 
 
 These factors can contribute to fluctuations in pork prices, the impact can vary depending on regional conditions and other market factors. 
 
@@ -80,6 +80,51 @@ The ND-GAIN Index summarizes a country's vulnerability to climate change and oth
 Ecological Threat Report (ETR) seeks to present two particularly large and complex problems – identifying countries most at risk of catastrophic outcomes as a result of ecological threats, and predicting which ones are most likely to suffer from conflict and instability in future.
 
 Using the global Warming Impact Score scientist are able to know which countries have high scores and what efforts can be done to assist
+
+What areas are more affected 
+According to the International Rescue Committee, the top 10 vulnerable regions suffering humanitarian crises are dealing with various combinations of climate change, economic turmoil, and political conflict.
+Determining countries of concern
+When deciding countries of concern for climate disaster it is necessary to determine which countries are most likely to be affected in the event of a climate disaster with no chance of recovery.
+Concerning Climate Decisions
+- Drought				 	- Political problems
+- Country-wide famine			 - Increased military confrontation
+- Non-potable drinking water		- Flooding
+- Earthquake					- Multiple diseases
+What areas are more affected
+From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
+10. Ukraine: Ukraine war, Russian missile strikes, mass displacement crisis
+9. Haiti: political instability, ang violence, and climate change
+8. Burkina Faso: armed group seizing land
+7. South Sudan: floods, climate disasters, and years of civil war
+6. Syria: decade long war destroyed health care system, increased food prices, and poverty 
+5. Yemen: 8-year conflict between armed groups and government forces
+4. Democratic Republic of Congo: major disease outbreaks and decades-long conflict
+3. Afghanistan: remain in economic collapse since Taliban take over 
+2. Ethiopia: 6th consecutive drought season and conflict torments tens of millions
+1. Somalia: Human-caused climate change increased frequency and severity of droughts
+
+From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
+7. South Sudan: floods, climate disasters, and years of civil war
+	Food Vulnerability - 3rd worst 
+	Water Vulnerability – 2nd worst
+6. Syria: decade long war destroyed health care system, increased food prices, and poverty 
+	Water Vulnerability – 5th worst
+5. Yemen: 8 year conflict between armed groups and government forces
+
+4. Democratic Republic of Congo: major disease outbreaks and decades-long conflict
+	Health Vulnerability – 2nd worst
+
+3. Afghanistan: remain in economic collapse since Taliban take over 
+	Health Vulnerability – 4th worst
+
+2. Ethiopia: 6th consecutive drought season and conflict torments tens of millions
+	Health Vulnerability – 3rd worst
+
+1. Somalia: Human-caused climate change increased frequency and severity of droughts
+	Food Vulnerability – 4th worst 
+	Overall Vulnerability – 1st Worst
+![image](https://github.com/LinetOsoro/project_JS_DR_JR_LO/assets/151706216/d7930f7c-7c7f-459b-8b30-57427fcf1c5f)
+
 
 # Top 5 bottom countries 
 
