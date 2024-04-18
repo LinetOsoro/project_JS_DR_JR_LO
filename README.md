@@ -143,6 +143,17 @@ The warnings from the IPCC paint a dire picture of habitat loss, species extinct
 
 Climate change forces us to confront fundamental questions about our values and priorities as a global society. It demands that we prioritize justice, equity, and sustainability in our decision-making processes, recognizing that the protection of life on Earth is priceless. Ultimately, addressing climate change is not just about economics; it's a moral imperative for ensuring a thriving future for all beings on our planet.
 
+## What the Data Tells Us
+
+Since 1980, the amount of red meat has dramatically. It has increased from 70k to 110k in 43 years. The populatio began to increase more rapidly starting around 1990. Since 1980 there has been the same trend with the poultry population. The increase started to pick up around 1990 and by 2023, the amount of poultry has increased by 500%. These increases can be due to an increase in demand because of an increase in population. 
+
+Additionally, there has been an steady increase in mean methane levels and CO2 levels since 1980. This can be attributed in an increase in population and an increase in the use of fossil fuels. We also see that the methane levels have a strong correlation to the amount of red meat. The more read meat, the higher the temperature. Cows expel methane gas, so it is understandable that this correlation exists. The more cows, the more methan gas released into the air.
+
+The mean temperatures in both the summer months and the winter months began to take a steady increase starting around 1980. While the temperatures still fluctuate by year, the overall trend is that the temperature is increasing dramatically. In the summer months, between 1980 and now, the average US temperature has increased by approximately 1.5 degrees Celsius, approximatly 34 degrees Farenheit! In the winter months, between 1980 and now, the US average temperature has increased by about 1.5 degrees Celsius as well!
+
+Looking at temperature over the decades, we can see a dramatic increase in the median temperature from the 1980s to now. In 1980, the median average temperature was around 9 degrees Celsius. 50% of the 80s had an average temperature between 8.5 and 9 degrees Celsius. Overall in the 80s the average temperatures were between 8.5 and 9.5 degrees Celsius. In the 2000s, the median rose to 9.75 degrees. 50% of the 00s had an average temperature below 9.75 degrees with the majority of the average temperatures being between 9.75 degrees and 10 degrees. The minimum has increased by 1.25 degrees!
+
+The ND-Gain Index looks at the readiness of a country to handle climate change through adaptive measures. It looks at the economic readiness, the governance readiness, and the social readiness (source: https://gain.nd.edu). The map of the ND-Gain Index shows us that countries in Northern Europe are more prepared with higher index values. The most prepared countries are Norway, Sweden, Finland, and Germany.
 ## Resources and Data Sets
 
 Climate Change: Earth Surface Temperature Data: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data 
