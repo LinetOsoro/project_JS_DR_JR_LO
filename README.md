@@ -143,7 +143,7 @@ The warnings from the IPCC paint a dire picture of habitat loss, species extinct
 
 Climate change forces us to confront fundamental questions about our values and priorities as a global society. It demands that we prioritize justice, equity, and sustainability in our decision-making processes, recognizing that the protection of life on Earth is priceless. Ultimately, addressing climate change is not just about economics; it's a moral imperative for ensuring a thriving future for all beings on our planet.
 
-### What the Data Tells Us
+# What the Data Tells Us
 
 Since 1980, the amount of red meat has dramatically. It has increased from 70k to 110k in 43 years. The populatio began to increase more rapidly starting around 1990. Since 1980 there has been the same trend with the poultry population. The increase started to pick up around 1990 and by 2023, the amount of poultry has increased by 500%. These increases can be due to an increase in demand because of an increase in population. 
 
