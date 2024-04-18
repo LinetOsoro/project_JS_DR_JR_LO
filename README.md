@@ -83,8 +83,6 @@ Using the global Warming Impact Score scientist are able to know which countries
 
 What areas are more affected 
 According to the International Rescue Committee, the top 10 vulnerable regions suffering humanitarian crises are dealing with various combinations of climate change, economic turmoil, and political conflict.
-Determining countries of concern
-When deciding countries of concern for climate disaster it is necessary to determine which countries are most likely to be affected in the event of a climate disaster with no chance of recovery.
 Concerning Climate Decisions
 - Drought				 	- Political problems
 - Country-wide famine			 - Increased military confrontation
@@ -123,7 +121,6 @@ From the IRC’s top 10 humanitarian list, 7 of those countries are also present
 1. Somalia: Human-caused climate change increased frequency and severity of droughts
 	Food Vulnerability – 4th worst 
 	Overall Vulnerability – 1st Worst
-![image](https://github.com/LinetOsoro/project_JS_DR_JR_LO/assets/151706216/d7930f7c-7c7f-459b-8b30-57427fcf1c5f)
 
 
 # Top 5 bottom countries 
@@ -137,7 +134,6 @@ Myanmar -- Has been affected by at least 57 natural disasters caused by global w
 Pakistan -- One of the worst impacts of global warming and climate change was the devastating monsoon floods experienced by Pakistan in 2022 that impacted the lives and livelihoods of 33 million people, destroyed 4.4 million acres of agricultural land, and killed 800,000 livestock. With increasing temperatures and rapidly melting glaciers, the country is also set to experience periods of drought which could cause more than 14.6 million people to fall prey to acute hunger.
 
 Haiti -- ranks 17th on the Ecological Threat Report (ETR)’s list of countries that are most threatened by climate-related catastrophes. It has been hit by 80 such events since 2000 and has suffered an economic loss of $392 million. It has recently received assistance of $22.4 million from the Green Climate Fund for building climate resilience through reforestation and flood management.
-
 
 ## Ethical Considerations Surrounding Climate Change 
 
