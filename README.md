@@ -36,7 +36,7 @@ Current research shows climate change has caused more frequent large rainfall ev
 	
 ## Reasons global temperature is important and how it affects the prices of pork. (very similar to beef) 
  
-Climate change can directly affect the price of pork through various channels. For example  extreme weather events impacting feed crops. Disease outbreaks affecting livestock, and increased production costs due to changes in temperature and weather patterns. 
+Climate change can directly affect the price of pork through various channels. For example extreme weather events impacting feed crops. Disease outbreaks affecting livestock, and increased production costs due to changes in temperature and weather patterns. 
 
 These factors can contribute to fluctuations in pork prices, the impact can vary depending on regional conditions and other market factors. 
 
