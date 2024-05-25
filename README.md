@@ -110,14 +110,23 @@ Multiple diseases
 ## What areas are more affected
 From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
 10. Ukraine: Ukraine war, Russian missile strikes, mass displacement crisis
+
 9. Haiti: political instability, ang violence, and climate change
+
 8. Burkina Faso: armed group seizing land
+
 7. South Sudan: floods, climate disasters, and years of civil war
-6. Syria: decade long war destroyed health care system, increased food prices, and poverty 
+ 
+6. Syria: decade long war destroyed health care system, increased food prices, and poverty
+ 
 5. Yemen: 8-year conflict between armed groups and government forces
+ 
 4. Democratic Republic of Congo: major disease outbreaks and decades-long conflict
-3. Afghanistan: remain in economic collapse since Taliban take over 
+
+3. Afghanistan: remain in economic collapse since Taliban take over
+
 2. Ethiopia: 6th consecutive drought season and conflict torments tens of millions
+   
 1. Somalia: Human-caused climate change increased frequency and severity of droughts
 
 From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
