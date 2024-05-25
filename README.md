@@ -109,47 +109,47 @@ Multiple diseases
 
 ## What areas are more affected
 From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
-10. Ukraine: Ukraine war, Russian missile strikes, mass displacement crisis
+Ukraine: Ukraine war, Russian missile strikes, mass displacement crisis
 
-9. Haiti: political instability, ang violence, and climate change
+Haiti: political instability, ang violence, and climate change
 
-8. Burkina Faso: armed group seizing land
+Burkina Faso: armed group seizing land
 
-7. South Sudan: floods, climate disasters, and years of civil war
+South Sudan: floods, climate disasters, and years of civil war
+
+Syria: decade long war destroyed health care system, increased food prices, and poverty
  
-6. Syria: decade long war destroyed health care system, increased food prices, and poverty
+Yemen: 8-year conflict between armed groups and government forces
  
-5. Yemen: 8-year conflict between armed groups and government forces
- 
-4. Democratic Republic of Congo: major disease outbreaks and decades-long conflict
+Democratic Republic of Congo: major disease outbreaks and decades-long conflict
 
-3. Afghanistan: remain in economic collapse since Taliban take over
+Afghanistan: remain in economic collapse since Taliban take over
 
-2. Ethiopia: 6th consecutive drought season and conflict torments tens of millions
+Ethiopia: 6th consecutive drought season and conflict torments tens of millions
    
-1. Somalia: Human-caused climate change increased frequency and severity of droughts
+Somalia: Human-caused climate change increased frequency and severity of droughts
 
 From the IRC’s top 10 humanitarian list, 7 of those countries are also presently being tracked by the Notre Dame Global Adaptation Initiative to help counter the affects and future risk of climate change.
 
-7. South Sudan: floods, climate disasters, and years of civil war
+South Sudan: floods, climate disasters, and years of civil war
 	Food Vulnerability - 3rd worst 
 	Water Vulnerability – 2nd worst
 
-6. Syria: decade long war destroyed health care system, increased food prices, and poverty 
+Syria: decade long war destroyed health care system, increased food prices, and poverty 
 	Water Vulnerability – 5th worst
 
-5. Yemen: 8 year conflict between armed groups and government forces
+Yemen: 8 year conflict between armed groups and government forces
 
-4. Democratic Republic of Congo: major disease outbreaks and decades-long conflict
+Democratic Republic of Congo: major disease outbreaks and decades-long conflict
 	Health Vulnerability – 2nd worst
 
-3. Afghanistan: remain in economic collapse since Taliban take over 
+Afghanistan: remain in economic collapse since Taliban take over 
 	Health Vulnerability – 4th worst
-
-2. Ethiopia: 6th consecutive drought season and conflict torments tens of millions
+ 
+Ethiopia: 6th consecutive drought season and conflict torments tens of millions
 	Health Vulnerability – 3rd worst
 
-1. Somalia: Human-caused climate change increased frequency and severity of droughts
+Somalia: Human-caused climate change increased frequency and severity of droughts
 	Food Vulnerability – 4th worst 
 	Overall Vulnerability – 1st Worst
 
